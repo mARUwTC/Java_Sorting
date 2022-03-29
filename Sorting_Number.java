@@ -1,5 +1,5 @@
 import java.io.*;
-class S20170182 {
+class Sorting_Number {
     public static void main(String[] args) 
     throws IOException {
         InputStreamReader reader = new InputStreamReader(System.in);
